@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
-- 📫 How to reach me **danikethpatil@gmail.com**
+- 📫 How to reach me **https://www.linkedin.com/in/aniketh-patil-a538ba292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/13Rtg29XwIP_sbd9bjZzbbnsdv32lMKd0/view?usp=drivesdk](https://drive.google.com/file/d/13Rtg29XwIP_sbd9bjZzbbnsdv32lMKd0/view?usp=drivesdk)
 
