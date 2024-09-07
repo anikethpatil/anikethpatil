@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm D Aniketh patil</h1>
+<h1 align="center">I'm D Aniketh patil</h1>
 <h3 align="center">A passionate Computer Science graduate</h3>
 
 - 🌱 I’m currently learning **React, Node.js**
